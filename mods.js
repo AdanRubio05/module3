@@ -25,3 +25,7 @@ const seller = {
 } ;
 
 document.getElementById("sell").innerHTML = seller.fullSeller() + " " + "sold it to him for a couple hundred bucks." ;
+
+function questionAnswer() {
+    document.getElementById("output").innerHTML
+} ;
