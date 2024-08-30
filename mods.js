@@ -26,6 +26,8 @@ const seller = {
 
 document.getElementById("sell").innerHTML = seller.fullSeller() + " " + "sold it to him for a couple hundred bucks." ;
 
+let bodyColor = "Copper"
+
 function questionAnswer() {
-    document.getElementById("output").innerHTML = "Copper" ;
+    document.getElementById("dacolor").innerHTML = bodyColor ;
 } ;
