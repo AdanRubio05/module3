@@ -19,4 +19,4 @@ function carYear(y1, y2) {
 }
 
 let result = carYear(489, 4);
-document.getElementById("bel").innerHTML = "My grandfather owned a" + " " + result + " " + car ;
+document.getElementById("bel").innerHTML = "My grandfather owned a" + " " + result + " " + car + " " + carName ;
