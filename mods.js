@@ -5,4 +5,5 @@ function toUpper(text) {
     console.log(upperCased);
 }
 
-toUpper(myself) ; 
+toUpper(myself) ; // I know this is a funtion pulled from the video but it was meant for testing purposes
+
