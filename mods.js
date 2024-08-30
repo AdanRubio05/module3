@@ -13,7 +13,7 @@ function carYear(y1, y2) {
 }
 
 let result = carYear(489, 4);
-document.getElementById("bel").innerHTML = "My grandfather owned a" + " " + result + " " + "Chevy Bel-Air."
+document.getElementById("bel").innerHTML = "My Grandfather owned a" + " " + result + " " + "Chevy Bel-Air."
 
 const seller = {
     firstName: 'Some' ,
