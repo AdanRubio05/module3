@@ -17,7 +17,7 @@ document.getElementById("bel").innerHTML = "My grandfather owned a" + " " + resu
 
 const seller = {
     firstName: 'Some' ,
-    lastName: 'Guy' ,
+    lastName: 'guy' ,
     date: 1962 ,
     fullSeller: function() {
         return this.firstName + " " + this.lastName + " " + "in" + " " + this.date ;
